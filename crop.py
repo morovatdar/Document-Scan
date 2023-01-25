@@ -1,5 +1,5 @@
-""" DESKO Computer Vision Assignment Program
-By Reza Morovatdar
+""" 
+Reza Morovatdar
 01/23/2023
 """
 import argparse
